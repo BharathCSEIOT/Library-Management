@@ -22,6 +22,10 @@ In this module the user can cancel their name which is registered for the Book.
 ### SOFTWARE REQUIRMENTS:
 Star UML
 ### UML Diagrams:
+```
+NAME: BHARATH K
+Reg.no: 212222110006
+```
 ## USECASE DIAGRAM:
 ![image](https://github.com/BharathCSEIOT/Library-Management/assets/122793480/5db9de62-db68-4c97-be9b-8d5e3049c6cd)
 ## PACKAGE DIAGRAM:
